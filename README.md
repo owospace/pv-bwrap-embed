@@ -8,7 +8,7 @@
     <a href="https://github.com/owospace/pv-bwrap-embed#getting-started"><strong>Installation »</strong></a>
     <br>
     <br>
-    <a href="https://github.com/owospace/pv-bwrap-embed/tree/blob/master/asset.png">View Gallery</a>
+    <a href="https://github.com/owospace/pv-bwrap-embed/blob/master/asset.png">View Gallery</a>
     ・
     <a href="https://github.com/owospace/pv-bwrap-embed/issues/new">Report Bug</a>
     ・
