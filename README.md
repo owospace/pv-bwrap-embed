@@ -1,8 +1,3 @@
-# pv-bwrap-embed
-A simple node application to workaround embedding your playing game on Discord.
-
-
-
 <div align="center">
 
   <img src="https://spce.moe/img/logo.92b873b3.png" width="220" height="148">
